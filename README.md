@@ -1,4 +1,4 @@
 # min-repo
 
-main prints "hello"
+A minimal repository for checking zoekt search scores.
 
